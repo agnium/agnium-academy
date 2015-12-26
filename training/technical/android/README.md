@@ -19,17 +19,14 @@ Design
 ### Views
 
 + Mobile device
-+ Views selection: View, TextView (title, paragraph, notification), ImageView (bitmap, icon, svg), Button (main, secondary, fab), EditText, Spinner, CheckBox, RadioButton, RatingBar, Switch, SeekBar, SearchView, ProgressBar, 
++ Views selection: View, TextView (title, paragraph, notification), ImageView (bitmap, icon, svg), Button (main, secondary, fab), EditText, Spinner, CheckBox, RadioButton, RatingBar, Switch, SeekBar, SearchView, ProgressBar
++ View Groups: Relative, Linear (vertical/horizontal orientation)
 + Views customization and styling
-+ Views positioning and layout
++ Views positioning and layout: wrap content, match parent
 + DP (Density-Independent Pixel), not pixels
   + Resolution: medium, high, extra high
 + SP (Scale-Independent Pixel)
 
-### Content
-
-+ Hard coding
-+ wrap_content property
 
 *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
 
